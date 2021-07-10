@@ -1,2 +1,3 @@
 # MinecraftFull
-Minecraft :P
+
+Okay, so basically, I just recreated Minecraft. Not much to say here...
